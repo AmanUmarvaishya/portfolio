@@ -6,10 +6,10 @@ import { FaGithub, FaPhone } from "react-icons/fa";
 const Footer = () => {
   return (
     <>
-     <MdOutlineEmail size={20} />
+    <div className='bg-[#465697]'> <MdOutlineEmail size={20} />
           <a href="https://mail.google.com/mail/amanumarvaishya9653021436@gmail.com/0/#inbox">
           amanumarvaishya9653021436@gmail.com
-          </a>
+          </a></div>
     <div
       id="Footer"
       className="flex justify-around bg-[#465697] text-white p-10 md:p-12 items-center"
