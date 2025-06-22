@@ -38,7 +38,7 @@ const Projects = () => {
         <ProjectCard
         image={DisColor}
              link='https://github.com/AmanUmarvaishya/Background_Color_Change'
-          title="Background_Color_Change"
+          title="Bg_Color_Change"
           main="This is a Background_Color_Change created in html css and javasript and Here use can change our display color "
         />
           <ProjectCard
