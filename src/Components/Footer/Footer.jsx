@@ -5,9 +5,14 @@ import { FaGithub, FaPhone } from "react-icons/fa";
 
 const Footer = () => {
   return (
+    <>
+     <MdOutlineEmail size={20} />
+          <a href="https://mail.google.com/mail/amanumarvaishya9653021436@gmail.com/0/#inbox">
+          amanumarvaishya9653021436@gmail.com
+          </a>
     <div
       id="Footer"
-      className="flex justify-between bg-[#465697] text-white p-10 md:p-12 items-center"
+      className="flex justify-around bg-[#465697] text-white p-10 md:p-12 items-center"
     >
       <div>
         <h1 className="text-2xl md:text-6xl font-bold">Contact</h1>
@@ -15,10 +20,7 @@ const Footer = () => {
           Feel Free To reach out!
         </h3>
                
-          <MdOutlineEmail size={20} />
-          <a href="https://mail.google.com/mail/amanumarvaishya9653021436@gmail.com/0/#inbox">
-          amanumarvaishya9653021436@gmail.com
-          </a>
+         
       </div>
 
       <ul className="text-sm md:text-xl">
@@ -39,7 +41,7 @@ const Footer = () => {
 
        
     </div>
-  );
+ </> );
 };
 
 export default Footer;
