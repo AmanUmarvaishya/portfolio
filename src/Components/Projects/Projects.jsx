@@ -19,28 +19,33 @@ const Projects = () => {
         />
            <ProjectCard
         image={Quara}
+             link='https://github.com/AmanUmarvaishya/BACKEND_PROJECT_2'
           title="Quara post"
           main="This is a Quara post Platform created in MERN stack technology and used node express"
         />
         <ProjectCard
         image={commerce}
+             link='https://github.com/AmanUmarvaishya/React-E-commerce'
           title="E-commerce Website"
           main="This is a E-commerce Website created in Ract js and used some component library."
         />
         <ProjectCard
         image={Pattern}
+             link='https://github.com/AmanUmarvaishya/Simon_Says_game.'
           title="Pattern games"
           main="This is a Pattern games created in html css and javasript and Here use can start the the game by clicking any keys"
         />
         <ProjectCard
         image={DisColor}
+             link='https://github.com/AmanUmarvaishya/Background_Color_Change'
           title="Pattern games"
           main="This is a Pattern games created in html css and javasript and Here use can start the the game by clicking any keys"
         />
           <ProjectCard
         image={Cal}
-          title="Pattern games"
-          main="This is a Pattern games created in html css and javasript and Here use can start the the game by clicking any keys"
+               link='https://github.com/AmanUmarvaishya/Responsive-calculator'
+          title="Responsive calculator"
+          main="This is aResponsive calculator created in html css javasript and CSS grid. and Here we can calculate mathematic operations"
         />
        
       </div>
