@@ -31,12 +31,12 @@ const Footer = () => {
           9455024681
         </li>
       </ul>
-       <li className="flex gap-1 items-center">
+       
           <MdOutlineEmail size={20} />
           <a href="https://mail.google.com/mail/amanumarvaishya9653021436@gmail.com/0/#inbox">
           amanumarvaishya9653021436@gmail.com
           </a>
-        </li>
+       
     </div>
   );
 };
