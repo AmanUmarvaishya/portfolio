@@ -13,7 +13,7 @@ const Projects = () => {
       <div className="py-12 px-8 flex flex-wrap gap-5">
         <ProjectCard
         image={online}
-          link={https://github.com/AmanUmarvaishya/Backend_project_1}
+          link='https://github.com/AmanUmarvaishya/Backend_project_1'
           title="Online home-booking Platform"
           main="This is a Online home-booking Platform created in MERN stack technology and used node express and mongodb."
         />
