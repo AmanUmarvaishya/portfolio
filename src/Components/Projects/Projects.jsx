@@ -20,8 +20,8 @@ const Projects = () => {
            <ProjectCard
         image={Quara}
              link='https://github.com/AmanUmarvaishya/BACKEND_PROJECT_2'
-          title="Quara post"
-          main="This is a Quara post Platform created in MERN stack technology and used node express"
+          title="Massesing website"
+          main="This is a Massesing website created in MERN stack technology and the user can add, delete , edit and update our massege."
         />
         <ProjectCard
         image={commerce}
@@ -38,14 +38,14 @@ const Projects = () => {
         <ProjectCard
         image={DisColor}
              link='https://github.com/AmanUmarvaishya/Background_Color_Change'
-          title="Pattern games"
-          main="This is a Pattern games created in html css and javasript and Here use can start the the game by clicking any keys"
+          title="Background_Color_Change"
+          main="This is a Background_Color_Change created in html css and javasript and Here use can change our display color "
         />
           <ProjectCard
         image={Cal}
                link='https://github.com/AmanUmarvaishya/Responsive-calculator'
           title="Responsive calculator"
-          main="This is aResponsive calculator created in html css javasript and CSS grid. and Here we can calculate mathematic operations"
+          main="This is a Responsive calculator created in html css javasript and CSS grid. and Here we can calculate mathematic operations"
         />
        
       </div>
